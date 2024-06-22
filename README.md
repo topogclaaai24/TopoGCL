@@ -1,4 +1,4 @@
-# Code for the paper TopoGCL: Topological Graph Contrastive Learning (AAAI 2024).
+# Code for the paper TopoGCL: Topological Graph Contrastive Learning (AAAI 2024)
 ## Environment Setups
 ```
 pip install -r requirements.txt
