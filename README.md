@@ -8,3 +8,8 @@ then, install gpu-related libraries manually
 pip3 install torch torchvision torchaudio
 ```
 and also torch-geometric according to [install](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
+
+## Run Experiments
+```
+python main_topogcl.py
+```
